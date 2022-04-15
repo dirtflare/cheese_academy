@@ -1,6 +1,7 @@
 # チーズアカデミー
 
 ## プロダクト紹介
+https://dirtflare.github.io/cheese_academy/
 - G's LAB7 初回課題
 
 ## 工夫した点・こだわった点
